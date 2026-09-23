@@ -2,15 +2,11 @@ services:
   - type: web
     name: arg-404
     runtime: python
-    plan: starter
+    plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python3 server.py
     healthCheckPath: /healthz
     autoDeploy: false
     envVars:
       - key: ARG_DB_PATH
-        value: /var/data/progress.sqlite3
-    disk:
-      name: arg-progress
-      mountPath: /var/data
-      sizeGB: 1
+        value: /tmp/progress.sqlite3

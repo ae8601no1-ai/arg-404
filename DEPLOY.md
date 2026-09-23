@@ -1,7 +1,7 @@
-# 公開手順（Render + 永続SQLite）
+# 公開手順（Render Free + 一時SQLite）
 
 このARGは `server.py` が進捗判定・資料解放を行うため、GitHub Pages単体では動きません。
-プレイヤー進捗を再起動・再デプロイ後も保持するため、SQLite DBをRenderの永続ディスクへ保存する構成にしています。
+無料運用のため、SQLite DBをRenderの一時ファイルシステムへ保存する構成です。再起動・スピンダウン・再デプロイ時にプレイヤー進捗は失われます。
 
 ## 1. GitHubリポジトリ
 
@@ -19,26 +19,26 @@
 - Web Service: Python
 - Start Command: `python3 server.py`
 - Health Check: `/healthz`
-- DB: `/var/data/progress.sqlite3`
-- Persistent Disk: `/var/data`
+- Plan: `free`
+- DB: `/tmp/progress.sqlite3`
+- Persistent Disk: なし
 
 `server.py` はRenderが渡す `PORT` を自動取得し、`0.0.0.0` で待受します。
 HTTPSリバースプロキシ経由でもフォーム送信とSecure Cookieが動作します。
 
-## 3. 永続化について重要
+## 3. 一時保存について重要
 
-RenderのFree Web Serviceはファイルシステムが一時的で、再起動・スピンダウン・再デプロイ時にSQLiteが消えます。
-永続ディスクはFree Web Serviceでは利用できないため、この `render.yaml` は `starter` プラン + Persistent Disk を指定しています。
+RenderのFree Web Serviceはファイルシステムが一時的で、再起動・スピンダウン・再デプロイ時にSQLiteが消えます。この `render.yaml` は無料運用を優先し、永続ディスクを使用しません。
 
 SQLite DBは次に保存されます:
 
 ```text
-/var/data/progress.sqlite3
+/tmp/progress.sqlite3
 ```
 
-`ARG_DB_PATH` も同じ場所に設定済みです。
+`ARG_DB_PATH` も同じ一時領域に設定済みです。
 
-これにより、通常の再起動や再デプロイ後もプレイヤー進捗を保持できます。
+プレイヤー進捗を保持できるのは、同じFreeインスタンスが稼働している間だけです。
 
 ## 4. ローカル確認
 
@@ -54,11 +54,10 @@ python3 server.py
 http://127.0.0.1:8040/
 ```
 
-永続パスを模擬して確認する場合:
+Renderの一時パスを模擬して確認する場合:
 
 ```bash
-mkdir -p ./persistent-data
-ARG_DB_PATH="$PWD/persistent-data/progress.sqlite3" python3 server.py
+ARG_DB_PATH=/tmp/progress.sqlite3 python3 server.py
 ```
 
 別ポート:
@@ -69,13 +68,12 @@ PORT=9000 python3 server.py
 
 ## 5. バックアップ
 
-SQLiteは1ファイルなので、必要に応じて `progress.sqlite3` をバックアップしてください。
-サービス稼働中に直接コピーするより、SQLiteのバックアップ機能を使う方が安全です。
+Free Web Serviceのローカルファイルは失われるため、この構成では継続的なバックアップ先として利用できません。
 
 同梱の `backup_progress.py` を使えます:
 
 ```bash
-ARG_DB_PATH=/var/data/progress.sqlite3 python3 backup_progress.py /var/data/backups
+ARG_DB_PATH=/tmp/progress.sqlite3 python3 backup_progress.py /tmp/backups
 ```
 
 日時付きのバックアップDBを生成します。
