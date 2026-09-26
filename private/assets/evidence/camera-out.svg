@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#d8dbd8"/>
+<rect x="55" y="55" width="1090" height="790" rx="10" fill="#eef1ed" stroke="#bbc4bc"/>
+<rect x="95" y="95" width="1010" height="650" fill="#d0d4cf"/>
+<text x="110" y="135" font-size="26" font-family="monospace" fill="#33423a">CAM 01 / 2011-10-04 17:02:14 / EXIT</text>
+<rect x="455" y="190" width="130" height="275" rx="28" fill="#838f88"/>
+<circle cx="520" cy="155" r="61" fill="#9aa59e"/>
+<rect x="437" y="270" width="25" height="110" rx="10" fill="#718179"/>
+<rect x="577" y="270" width="25" height="110" rx="10" fill="#718179"/>
+<rect x="478" y="460" width="25" height="175" rx="10" fill="#78867e"/>
+<rect x="540" y="460" width="25" height="175" rx="10" fill="#78867e"/>
+<rect x="460" y="627" width="56" height="24" rx="5" fill="#2a2b32"/>
+<rect x="531" y="627" width="56" height="24" rx="5" fill="#2a2b32"/>
+<text x="90" y="788" font-size="28" font-family="sans-serif" fill="#465149">袖の補修線なし / 黒い革靴 / 背が高い</text>
+<text x="90" y="828" font-size="22" font-family="sans-serif" fill="#677267">冬真メモ：同じ制服でも、別人と考えた方が自然だ。</text>
+</svg>

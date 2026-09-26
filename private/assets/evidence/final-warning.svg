@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#111312"/>
+<rect x="130" y="130" width="1140" height="640" rx="16" fill="#171c1a" stroke="#2d3a34"/>
+<text x="700" y="310" font-size="140" font-family="Georgia,serif" text-anchor="middle" fill="#f0f3ee">404</text>
+<text x="700" y="390" font-size="44" font-family="sans-serif" text-anchor="middle" fill="#d8e2db">記録が見つかりません</text>
+<text x="700" y="480" font-size="30" font-family="sans-serif" text-anchor="middle" fill="#9fafa6">このページの本文は削除されました。</text>
+<text x="700" y="530" font-size="30" font-family="sans-serif" text-anchor="middle" fill="#9fafa6">ただし、外に持ち出された記録は残っています。</text>
+<text x="700" y="640" font-size="26" font-family="monospace" text-anchor="middle" fill="#ff9191">EXTERNAL ARCHIVE AVAILABLE</text>
+</svg>

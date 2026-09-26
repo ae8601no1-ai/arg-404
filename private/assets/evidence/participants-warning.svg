@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#0b0e0d"/>
+<rect x="90" y="90" width="1220" height="720" rx="14" fill="#111615" stroke="#24322d"/>
+<text x="140" y="170" font-size="28" font-family="monospace" fill="#8aa79a">ARCHIVED WARNING SCREEN / INTERNAL USE ONLY</text>
+<text x="140" y="260" font-size="54" font-family="monospace" fill="#d4efe4">PARTICIPANT LIST</text>
+<text x="170" y="360" font-size="38" font-family="monospace" fill="#eaf5ef">長谷川亮</text>
+<text x="170" y="420" font-size="38" font-family="monospace" fill="#eaf5ef">小野寺聡</text>
+<text x="170" y="480" font-size="38" font-family="monospace" fill="#eaf5ef">野村沙紀</text>
+<text x="170" y="540" font-size="38" font-family="monospace" fill="#eaf5ef">RIN</text>
+<text x="170" y="600" font-size="38" font-family="monospace" fill="#eaf5ef">三枝冬真</text>
+<text x="170" y="660" font-size="42" font-family="monospace" fill="#ff7f7f">あなた</text>
+<text x="900" y="395" font-size="26" font-family="monospace" fill="#8aa79a">Investigation started</text>
+<text x="900" y="435" font-size="34" font-family="monospace" fill="#d4efe4">2026/10/05</text>
+<text x="900" y="515" font-size="26" font-family="monospace" fill="#8aa79a">Next audit</text>
+<text x="900" y="555" font-size="34" font-family="monospace" fill="#d4efe4">2029/10/04</text>
+<text x="900" y="635" font-size="26" font-family="monospace" fill="#8aa79a">COUNTDOWN</text>
+<text x="900" y="685" font-size="54" font-family="monospace" fill="#ff8e8e">1095 DAYS</text>
+<text x="140" y="775" font-size="34" font-family="monospace" fill="#ff8e8e">あなたは七海を知ってしまった。次は、あなたが記録から消える。</text>
+</svg>

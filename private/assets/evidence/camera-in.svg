@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#d9ddd8"/>
+<rect x="55" y="55" width="1090" height="790" rx="10" fill="#eef1ed" stroke="#bbc4bc"/>
+<rect x="95" y="95" width="1010" height="650" fill="#cfd6d0"/>
+<text x="110" y="135" font-size="26" font-family="monospace" fill="#33423a">CAM 01 / 2011-10-04 16:51:08 / ENTRANCE</text>
+<rect x="455" y="220" width="120" height="250" rx="28" fill="#89968d"/>
+<circle cx="515" cy="185" r="58" fill="#9ca89f"/>
+<rect x="437" y="295" width="28" height="110" rx="10" fill="#718179"/>
+<rect x="565" y="295" width="22" height="110" rx="10" fill="#718179"/>
+<rect x="473" y="465" width="25" height="160" rx="10" fill="#78867e"/>
+<rect x="532" y="465" width="25" height="160" rx="10" fill="#78867e"/>
+<rect x="458" y="617" width="48" height="22" rx="5" fill="#f3f4f0"/>
+<rect x="523" y="617" width="48" height="22" rx="5" fill="#f3f4f0"/>
+<line x1="438" y1="342" x2="464" y2="342" stroke="#e6d4b8" stroke-width="6"/>
+<text x="90" y="788" font-size="28" font-family="sans-serif" fill="#465149">右袖の補修線が見える / 白い運動靴 / 小柄</text>
+<text x="90" y="828" font-size="22" font-family="sans-serif" fill="#677267">冬真メモ：袖の線を基準に見ると、退出側と合わない。</text>
+</svg>
