@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#ece8de"/>
+<rect x="140" y="80" width="1120" height="740" rx="12" fill="#fffdf8" stroke="#d2cbb8"/>
+<text x="190" y="155" font-size="24" font-family="sans-serif" fill="#6d756b">静浜記録技研　照合監査係</text>
+<text x="190" y="235" font-size="48" font-family="serif" fill="#2f3f34">原本閲覧会の招待状</text>
+<text x="190" y="320" font-size="30" font-family="sans-serif" fill="#49544d">七海氏に関する異議申立てについて、</text>
+<text x="190" y="365" font-size="30" font-family="sans-serif" fill="#49544d">次回の照合監査日に原本閲覧を実施します。</text>
+<text x="190" y="410" font-size="30" font-family="sans-serif" fill="#49544d">第四資料館へお越しください。</text>
+<rect x="190" y="490" width="1000" height="120" rx="10" fill="#f5f0e3" stroke="#d5c8aa"/>
+<text x="225" y="545" font-size="28" font-family="sans-serif" fill="#6c5737">付記：初回 2011年10月4日</text>
+<text x="225" y="590" font-size="28" font-family="sans-serif" fill="#6c5737">以降 3年ごとの同日に照合監査を実施</text>
+<circle cx="1060" cy="700" r="82" fill="none" stroke="#9f5f52" stroke-width="8"/>
+<text x="995" y="710" font-size="34" font-family="sans-serif" fill="#9f5f52">機密</text>
+</svg>

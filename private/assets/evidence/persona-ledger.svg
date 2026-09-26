@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="840" viewBox="0 0 1400 840">
+<rect width="1400" height="840" fill="#ede8dd"/>
+<rect x="120" y="90" width="1160" height="670" rx="10" fill="#fffdf8" stroke="#d2cab8"/>
+<text x="180" y="160" font-size="42" font-family="serif" fill="#384138">人格生成台帳（抜粋）</text>
+<line x1="180" y1="210" x2="1220" y2="210" stroke="#cfc7b6" stroke-width="2"/>
+<text x="200" y="280" font-size="30" font-family="monospace" fill="#475048">試験ID：N-04</text>
+<text x="200" y="340" font-size="30" font-family="monospace" fill="#475048">表示名：水城七海</text>
+<text x="200" y="400" font-size="30" font-family="monospace" fill="#475048">種別：合成人格</text>
+<text x="200" y="460" font-size="30" font-family="monospace" fill="#475048">出生原票：なし</text>
+<text x="200" y="520" font-size="30" font-family="monospace" fill="#475048">公開年齢：17</text>
+<text x="200" y="580" font-size="30" font-family="monospace" fill="#475048">撮影対象：M-17</text>
+<rect x="820" y="310" width="330" height="170" rx="10" fill="#f8eedb" stroke="#d8be8a"/>
+<text x="860" y="380" font-size="28" font-family="sans-serif" fill="#7a5d33">出生原票なし</text>
+<text x="860" y="420" font-size="24" font-family="sans-serif" fill="#7a5d33">＝戸籍起点を持たない</text>
+</svg>

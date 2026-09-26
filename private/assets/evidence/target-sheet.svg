@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+<rect width="1400" height="860" fill="#ece8de"/>
+<rect x="130" y="90" width="1140" height="680" rx="12" fill="#fffdf8" stroke="#d0c8b8"/>
+<text x="190" y="160" font-size="42" font-family="serif" fill="#394238">撮影対象台帳</text>
+<text x="190" y="220" font-size="28" font-family="monospace" fill="#465149">表示人格：N-04 / 水城七海</text>
+<text x="190" y="285" font-size="28" font-family="monospace" fill="#465149">撮影対象：M-17</text>
+<text x="190" y="350" font-size="28" font-family="monospace" fill="#465149">2011-10-04 16:44　廊下セット撮影</text>
+<text x="190" y="415" font-size="28" font-family="monospace" fill="#465149">2011-10-04 17:00　地下04へ移送</text>
+<text x="190" y="480" font-size="28" font-family="monospace" fill="#465149">2011-10-04 17:02　代役職員 新堂奈緒 退出</text>
+<rect x="845" y="265" width="320" height="170" rx="10" fill="#f8eedb" stroke="#d5bd8d"/>
+<text x="888" y="340" font-size="34" font-family="sans-serif" fill="#7a5d33">人物は二人いる</text>
+<text x="888" y="387" font-size="24" font-family="sans-serif" fill="#7a5d33">人格 N-04 と</text>
+<text x="888" y="422" font-size="24" font-family="sans-serif" fill="#7a5d33">撮影対象 M-17</text>
+</svg>

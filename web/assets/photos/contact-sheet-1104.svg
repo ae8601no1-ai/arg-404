@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#efe8d9"/>
+<rect x="78" y="70" width="1244" height="760" rx="16" fill="#fbfaf6" stroke="#d2cab8"/>
+<text x="120" y="140" font-size="42" font-family="sans-serif" fill="#394238">写真整理票 1104</text>
+<text x="120" y="188" font-size="22" font-family="sans-serif" fill="#6b7569">第四資料館・人物照合 / 冬真の添付資料</text>
+<rect x="120" y="240" width="360" height="440" rx="14" fill="#e9ece4" stroke="#cdd3c8"/>
+<text x="180" y="450" font-size="26" font-family="sans-serif" fill="#55645c">人物写真は別ファイル保管</text>
+<text x="180" y="486" font-size="22" font-family="sans-serif" fill="#7a847a">整理票には人物名のみ記載</text>
+<rect x="540" y="250" width="720" height="70" rx="10" fill="#f5f0e3" stroke="#d5c8aa"/>
+<text x="570" y="294" font-size="28" font-family="sans-serif" fill="#3e473d">整理番号：1104</text>
+<rect x="540" y="345" width="720" height="70" rx="10" fill="#f5f0e3" stroke="#d5c8aa"/>
+<text x="570" y="389" font-size="28" font-family="sans-serif" fill="#3e473d">分類：第四資料館・人物照合</text>
+<rect x="540" y="440" width="720" height="70" rx="10" fill="#f5f0e3" stroke="#d5c8aa"/>
+<text x="570" y="484" font-size="28" font-family="sans-serif" fill="#3e473d">参照記事：2026年9月28日</text>
+<rect x="540" y="535" width="720" height="150" rx="10" fill="#f8f7f1" stroke="#d7d8cf"/>
+<text x="570" y="580" font-size="26" font-family="sans-serif" fill="#3e473d">備考</text>
+<text x="570" y="625" font-size="24" font-family="sans-serif" fill="#667065">「今年の写真と古い新聞の人物名が一致するか」</text>
+<text x="570" y="662" font-size="24" font-family="sans-serif" fill="#667065">まずはブログ記事に残した名前を照合すること。</text>
+<text x="120" y="770" font-size="24" font-family="sans-serif" fill="#876b43">佐伯が保管していた添付資料の再構成イメージ</text>
+</svg>

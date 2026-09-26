@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#ece7dc"/>
+<rect x="150" y="80" width="1100" height="760" rx="12" fill="#fffdf8" stroke="#d3cab8"/>
+<text x="210" y="150" font-size="24" font-family="sans-serif" fill="#6f786d">持ち出し資料 / 署名 N</text>
+<text x="210" y="235" font-size="36" font-family="serif" fill="#394238">私が代わりに出た</text>
+<text x="210" y="320" font-size="30" font-family="sans-serif" fill="#505a51">2011年10月4日、私は妹の代わりに制服を着て</text>
+<text x="210" y="365" font-size="30" font-family="sans-serif" fill="#505a51">出口を歩いた。袖の補修も靴も合わせ切れなかった。</text>
+<text x="210" y="430" font-size="30" font-family="sans-serif" fill="#505a51">私は七海の姉ではない。七海なんて人は、</text>
+<text x="210" y="475" font-size="30" font-family="sans-serif" fill="#505a51">台帳の中にしかいなかった。</text>
+<line x1="210" y1="615" x2="680" y2="615" stroke="#b9b0a1" stroke-width="2"/>
+<text x="210" y="675" font-size="34" font-family="sans-serif" fill="#3d453d">新堂奈緒</text>
+<text x="210" y="716" font-size="22" font-family="sans-serif" fill="#7b857a">冬真メモ：この署名が N の正体</text>
+</svg>

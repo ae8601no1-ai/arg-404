@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<rect width="1400" height="820" fill="#f2efe7"/>
+<text x="100" y="95" font-size="42" font-family="sans-serif" fill="#3d483e">第四資料館 地下区画模式図</text>
+<text x="100" y="135" font-size="22" font-family="sans-serif" fill="#6c756a">旧管理番号と新表記の対応</text>
+<rect x="110" y="200" width="1180" height="500" rx="16" fill="#fbfaf6" stroke="#d3d5ca"/>
+<rect x="180" y="310" width="180" height="160" rx="10" fill="#ecefe7" stroke="#c7cec4"/><text x="216" y="395" font-size="40" font-family="monospace" fill="#445247">B1-01</text>
+<rect x="400" y="310" width="180" height="160" rx="10" fill="#ecefe7" stroke="#c7cec4"/><text x="436" y="395" font-size="40" font-family="monospace" fill="#445247">B1-02</text>
+<rect x="620" y="310" width="220" height="180" rx="10" fill="#f8ead7" stroke="#c59f6a" stroke-width="5"/><text x="666" y="392" font-size="48" font-family="monospace" fill="#7a4d1e">B1-04</text><text x="650" y="435" font-size="24" font-family="sans-serif" fill="#7a4d1e">旧番号 404</text>
+<rect x="900" y="310" width="180" height="160" rx="10" fill="#ecefe7" stroke="#c7cec4"/><text x="936" y="395" font-size="40" font-family="monospace" fill="#445247">B1-05</text>
+<rect x="1120" y="310" width="110" height="160" rx="10" fill="#ecefe7" stroke="#c7cec4"/><text x="1142" y="395" font-size="34" font-family="monospace" fill="#445247">階段</text>
+<text x="180" y="560" font-size="28" font-family="sans-serif" fill="#445247">旧番号404は「4階04号室」ではなく、地下作業区画04。</text>
+<text x="180" y="610" font-size="24" font-family="sans-serif" fill="#6a726a">冬真メモ：「4階を探すな。番号の付け方を探せ」</text>
+</svg>

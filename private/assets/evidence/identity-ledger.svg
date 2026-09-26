@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#edf0e9"/>
+<rect x="120" y="80" width="1160" height="760" rx="12" fill="#fffef9" stroke="#d1d5ca"/>
+<text x="180" y="150" font-size="40" font-family="serif" fill="#36423b">外部保管 受入台帳</text>
+<rect x="180" y="220" width="1040" height="100" rx="10" fill="#f5f7f2" stroke="#d7d9cf"/>
+<text x="215" y="278" font-size="28" font-family="monospace" fill="#465149">管理番号：M-17</text>
+<text x="575" y="278" font-size="28" font-family="monospace" fill="#465149">氏名：新堂澪</text>
+<text x="900" y="278" font-size="28" font-family="monospace" fill="#465149">家族：姉 新堂奈緒</text>
+<rect x="180" y="365" width="1040" height="200" rx="10" fill="#eef3ec" stroke="#cdd8d1"/>
+<text x="215" y="420" font-size="28" font-family="sans-serif" fill="#4d5b53">2017 小野寺聡　拘束・入所</text>
+<text x="215" y="468" font-size="28" font-family="sans-serif" fill="#4d5b53">2023 RIN　　　拘束・入所</text>
+<text x="215" y="516" font-size="28" font-family="sans-serif" fill="#4d5b53">2026 三枝冬真　拘束・入所</text>
+<text x="215" y="564" font-size="28" font-family="sans-serif" fill="#4d5b53">2026.10.05　点呼 3名 + M-17</text>
+<polyline points="180,690 280,660 380,685 480,630 580,670 680,620 780,650 880,590 980,640 1080,610 1180,648" fill="none" stroke="#70856a" stroke-width="6"/>
+<text x="180" y="742" font-size="22" font-family="sans-serif" fill="#6f786d">音声記録の波形（採録復元）</text>
+<text x="180" y="782" font-size="26" font-family="sans-serif" fill="#7a5e39">「私の名前は、ありません」→ 最後に本名が回収される</text>
+</svg>

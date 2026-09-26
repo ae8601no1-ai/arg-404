@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="1400" height="760" fill="#edf1eb"/>
+<text x="90" y="92" font-size="44" font-family="sans-serif" fill="#34453e">玄関カメラ転記シート</text>
+<text x="90" y="132" font-size="22" font-family="sans-serif" fill="#667267">2011年10月4日 / 第四資料館 正面玄関</text>
+<rect x="90" y="180" width="560" height="470" rx="18" fill="#fffef9" stroke="#ccd3c8"/>
+<rect x="750" y="180" width="560" height="470" rx="18" fill="#fffef9" stroke="#ccd3c8"/>
+<text x="130" y="245" font-size="34" font-family="monospace" fill="#355b4c">16:51 IN</text>
+<text x="790" y="245" font-size="34" font-family="monospace" fill="#355b4c">17:02 OUT</text>
+<rect x="145" y="286" width="110" height="180" rx="22" fill="#cad5cf"/>
+<rect x="805" y="286" width="110" height="180" rx="22" fill="#c4cfca"/>
+<line x1="172" y1="340" x2="228" y2="340" stroke="#8c7c66" stroke-width="6"/>
+<circle cx="205" cy="513" r="20" fill="#ffffff" stroke="#7d8c82" stroke-width="4"/>
+<rect x="830" y="500" width="48" height="24" rx="5" fill="#2f2f35"/>
+<text x="145" y="555" font-size="24" font-family="sans-serif" fill="#566359">右袖：補修線あり</text>
+<text x="145" y="593" font-size="24" font-family="sans-serif" fill="#566359">靴：白い運動靴</text>
+<text x="145" y="631" font-size="24" font-family="sans-serif" fill="#566359">身長：約158cm</text>
+<text x="805" y="555" font-size="24" font-family="sans-serif" fill="#566359">右袖：補修線なし</text>
+<text x="805" y="593" font-size="24" font-family="sans-serif" fill="#566359">靴：黒い革靴</text>
+<text x="805" y="631" font-size="24" font-family="sans-serif" fill="#566359">身長：約165cm</text>
+<text x="90" y="710" font-size="24" font-family="sans-serif" fill="#7a847a">同じ制服でも、袖と靴と身長が一致しない。</text>
+</svg>
